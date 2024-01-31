@@ -1,0 +1,12 @@
+body{
+    color: red;
+    font-size: 82px;
+}
+.content{
+    margin: auto;
+    background-color: #ccc;
+    text-align: center;
+    padding: 3rem;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px #aaa ;
+}
